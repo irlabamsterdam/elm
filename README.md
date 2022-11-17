@@ -4,9 +4,9 @@ This repository contins the code and data for all the experiments for the IRJ su
 
 ## Overview
 
-The repository is structured as foollows:
+The repository is structured as follows:
 - SyntheticExperiments
-  - These contain the experiments from Section 2.4 of the paper in a notebook and require no dataset.
+  - These contain the experiments from Section 2.4 of the paper in a notebook and require no dataset to run.
  - utils/metricutils.py
    - This file contains the implementations of both the ELM and BCUBED metrics, as well as some convenience functions for plotting and scores the metrics, and some convenience functions for converting between different cluster representation.
 - BaselineExperiments
