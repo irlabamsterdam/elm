@@ -43,4 +43,4 @@ Then run the following command:
 
 `ipython kernel install --name "ELM_IRJ_experiments_kernel" --user`
 
-Now the kernel is linked to Jupyter Lab, and you can select it as the kernal to run the notebooks in Jupyter Lab. to start Jupyter Lab, make sure the environment is activated and type `Jupyter Lab` in the terminal.
+Now the kernel is linked to Jupyter Lab, and you can select it as the kernal to run the notebooks in Jupyter Lab. to start Jupyter Lab, make sure the environment is activated and type `jupyter lab` in the terminal.
