@@ -21,7 +21,7 @@ The repository is structured as follows:
 
 ## Installation
 
-We strongly recommend using anaconda to run this environment, as the experiments in are all in Jupyter Notebooks, and this will make running them a lot easier. If you really want to install via `pip`, we also supply a `requirements.txt` file for this purpose.
+We strongly recommend using anaconda to run this environment, as the experiments are all in Jupyter Notebooks, and this will make running them a lot easier. If you really want to install via `pip`, we also supply a `requirements.txt` file for this purpose.
 
 
 Below are the steps for installing the required dependencies:
