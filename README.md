@@ -28,7 +28,7 @@ Below are the steps for installing the required dependencies:
 
 - Step 1: Clone /Download the repository to your local computer, for example by using the command below: `git clone https://github.com/irlabamsterdam/elm.git`
 
-- Step 2 :Unzip the directory and change into the directory in the terminal, for example `cd `
+- Step 2 :Unzip the directory if needed, and change into the directory in the terminal, for example `cd path/to/folder/elm `
 
 - Step 3: If you are using conda, you can use the command below to create a new conda environment with all the requirements you need to run the code in this repository.
 
